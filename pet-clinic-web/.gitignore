@@ -139,8 +139,3 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
-.gitignore
-src/main/resources/
-src/test/
-src/main/resources/static/
-src/main/resources/templates/

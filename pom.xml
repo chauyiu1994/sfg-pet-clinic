@@ -39,6 +39,7 @@
                         <checkModificationExclude>pet-clinic-web/pom.xml</checkModificationExclude>
                         <checkModificationExclude>pet-clinic-data/pom.xml</checkModificationExclude>
                         <checkModificationExclude>pom.xml</checkModificationExclude>
+                        <autoVersionSubmodules>true</autoVersionSubmodules>
                     </checkModificationExcludes>
                 </configuration>
             </plugin>

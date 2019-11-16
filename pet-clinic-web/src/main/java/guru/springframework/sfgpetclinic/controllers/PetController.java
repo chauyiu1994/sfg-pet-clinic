@@ -35,7 +35,7 @@ public class PetController {
 
     // add model attribute before each request handling
     @ModelAttribute("types")
-    public Collection<PetType> populatePertTypes() {
+    public Collection<PetType> populatePetTypes() {
 
         return petTypeService.findAll();
     }
